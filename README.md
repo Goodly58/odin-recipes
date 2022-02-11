@@ -18,3 +18,15 @@ Skills I'd have demonstrated:
 - html lang
 - !DOCTYPE
 
+
+
+
+
+
+
+
+
+
+
+
+
